@@ -1,0 +1,13 @@
+
+{
+  "START_END_SIGN": "start_end_sign",
+  "STATICFILES_PATH" : "C:\\Users\\perumal\\sampleES\\",
+  "ENC_LEVEL_INDEX_NAME": "enc_level",
+  "ENC_DATE_INDEX_NAME":"enc_dates",
+  "Log_Root_Path": "C:\\wavecac",
+  "SERVER" : "",
+  "DATABASE" : "",
+  "UID" : "",
+  "PWD" : "",
+  "RUN_FROM":"folder"
+}
